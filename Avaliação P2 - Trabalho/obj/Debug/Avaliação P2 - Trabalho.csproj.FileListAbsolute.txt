@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\P2\Avaliação P2 - Trabalho\bin\Debug\Avaliação P2 - Trabalho.exe.config
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\P2\Avaliação P2 - Trabalho\bin\Debug\Avaliação P2 - Trabalho.exe
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\P2\Avaliação P2 - Trabalho\bin\Debug\Avaliação P2 - Trabalho.pdb
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\P2\Avaliação P2 - Trabalho\obj\Debug\Avaliação P2 - Trabalho.csprojAssemblyReference.cache
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\P2\Avaliação P2 - Trabalho\obj\Debug\Avaliação_P2___Trabalho.FormPrincipal.resources
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\P2\Avaliação P2 - Trabalho\obj\Debug\Avaliação_P2___Trabalho.Properties.Resources.resources
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\P2\Avaliação P2 - Trabalho\obj\Debug\Avaliação P2 - Trabalho.csproj.GenerateResource.cache
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\P2\Avaliação P2 - Trabalho\obj\Debug\Avaliação P2 - Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\P2\Avaliação P2 - Trabalho\obj\Debug\Avaliação P2 - Trabalho.exe
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\P2\Avaliação P2 - Trabalho\obj\Debug\Avaliação P2 - Trabalho.pdb
